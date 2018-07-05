@@ -34,8 +34,25 @@ body {
 a:hover{color: red}
 
 a:hover{border-left: 3px solid #fff}
-p{
+.titre{
   text-align: center;
   font-family: sans-serif;
   font-size: 20px
+}
+.iphone{
+
+}
+.iphone img{
+  width: 100%; height: auto;
+
+}
+.hop{
+  text-align: left;
+  font-family: sans-serif;
+  font-size: 15px
+}
+li{
+  font-family: sans-serif;
+  font-size: 15px
+  font-weight: 0,25;
 }
